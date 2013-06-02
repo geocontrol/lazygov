@@ -3,7 +3,7 @@
 
 ***
 
-Lazygov was originally launched in 2003 at Lazygov.org. It was based on the LazyWeb code written by Ben Hammersley from an original idea my Matt Jones.
+Lazygov was originally launched in 2003 at Lazygov.org. It was based on the LazyWeb code written by Ben Hammersley from an original idea by Matt Jones.
 When it was launched we were not sure what the problem was that we wanted to address. Initially we thought that it would be good to get policy ideas and critique these ideas and the role of governance.
 At the time, we were told, there were no shortage of ideas. What was needed were tools, online services etc.
 At the time we were on the cusp of TheyWorkForYou.com, MySociety.org and similar. 
