@@ -13,6 +13,11 @@ We held the first UnParty UnConference at the Open Data Institute, London on the
 * Notes: http://www.geekyoto.com/?p=303 (scans of my notebook)
 
 
+## A New Politics
+***
+
+Take part in thinking about and creating a new politics, the Open Politics Project (http://www.openpolitics.org.uk) is currently trying to crowdsource a Manifesto.
+
 
 ## Crowdsourcing policy ideas to live by
 
