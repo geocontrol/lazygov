@@ -30,3 +30,10 @@ To try and make Policy feel closer to the public and less about Westminster we n
 ### Ballot Paper Designs
  
 The design of the communication around voting is very important, what is coded into the visual language used, what assumptions are made of those who are taking part in the democratic process.
+
+### Protest Placards & Art & Design
+
+Is there an archive of protest banners?
+
+
+* http://www.tate.org.uk/whats-on/tate-britain/exhibition/mark-wallinger-state-britain - Mark Wallinger recreated Brian Haw's anti-iraq war protest inside Tate Britain (which was still, just, within the exclusion zone for protest outside parliament).
