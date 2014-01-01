@@ -18,8 +18,15 @@ To try and make Policy feel closer to the public and less about Westminster we n
 * Policy GitHub. See the Open Politics Project, but by having policy in a change controlled repository it becomes easier to see how policy can evolve, be updated and 'fixed' in the same way code does.
 * User Stories. Can you, as the author of a policy idea write a user story for your idea.
 
+
 ## Background
 
 ## Notes
 
+### Background Reading - Power, crowds and politics
+
 * Foucault
+
+### Ballot Paper Designs
+ 
+The design of the communication around voting is very important, what is coded into the visual language used, what assumptions are made of those who are taking part in the democratic process.
