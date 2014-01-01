@@ -31,9 +31,19 @@ To try and make Policy feel closer to the public and less about Westminster we n
  
 The design of the communication around voting is very important, what is coded into the visual language used, what assumptions are made of those who are taking part in the democratic process.
 
+
+* http://www.electoralcommission.org.uk/__data/assets/pdf_file/0017/150380/Making-Your-Mark-Summary-Final-Web.pdf
+* http://37signals.com/svn/posts/1215-designing-a-better-ballot
+* http://news.bbc.co.uk/1/hi/uk_politics/8083435.stm
+
+
 ### Protest Placards & Art & Design
 
 Is there an archive of protest banners?
 
 
 * http://www.tate.org.uk/whats-on/tate-britain/exhibition/mark-wallinger-state-britain - Mark Wallinger recreated Brian Haw's anti-iraq war protest inside Tate Britain (which was still, just, within the exclusion zone for protest outside parliament).
+* http://www.bishopsgate.org.uk/Library/Library-and-Archive-Collections/Protest-and-Campaigning
+* http://www.nationalarchives.gov.uk/education/politics/
+* http://probablynotagoodsign.com/category/funny-protest-signs/
+* http://funnystudentprotestsigns.tumblr.com/
