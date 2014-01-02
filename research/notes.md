@@ -3,7 +3,7 @@
 ## Definition of the problem
 The aim of the LazyGov project is to examine collaboration and participation in politics by a much broader part of the population on a more engaged and often time frame than just the particiaption in a general election. 
 
-Specifically I am interested in the ideas around the crowd-sourcing of Policy and how this can work. 
+Specifically I am interested in the ideas around the crowd-sourcing of Policy and how this can work, but in examining this we hope to also examine other areas of particiaption and citisism of the other mechanisms of political power.
 
 Initially to help gather information for the project I have initiated the following:
 
